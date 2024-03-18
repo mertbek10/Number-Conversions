@@ -51,7 +51,7 @@ while(a==1)
          cout<<dizi[i];//while döngüsünde aldığımız modları yazdır
          }
         cout<<endl;
-        cout<<"if u wanna continue pres any key or type exit : ";
+        cout<<"if u wanna continue press any key or type exit : ";
         cin>>exit;
 
         if(exit == "exit")
